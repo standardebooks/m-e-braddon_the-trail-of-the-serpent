@@ -29,6 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Trail of the Serpent</dc:title>
 		<meta property="file-as" refines="#title">Trail of the Serpent, The</meta>
+		<meta property="dcterms:alternative" refines="#title">Three Times Dead; or, The Secret of the Heath</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">Serial murders -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Yorkshire (England) -- Fiction</dc:subject>
@@ -59,43 +60,43 @@
 		<meta property="term" refines="#subject-9">sh2008107239</meta>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh2007101818</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Drama</meta>
+		<dc:description id="description">In the town of Slopperton-on-the-Sloshy, the fate of Richard Marwood and Jabez North intertwine in a story of crime, intrigue, and redemption.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;On a cold and stormy night in Slopperton-on-the-Sloshy, Richard Marwood mysteriously returns after a long disappearance. Aided by his rich uncle to start a new life, his reappearance is quickly upended after being framed for murder. Meanwhile, Jabez North — prodigal son of Slopperton-on-the-Sloshy — schemes for fortunes by any means possible.&lt;/p&gt;
+			&lt;p&gt;The Trail of the Serpent is the first book written by &lt;a href="https://standardebooks.org/ebooks/m-e-braddon"&gt;M. E. Braddon&lt;/a&gt;. Although initially met with poor sales under the original title of &lt;i&gt;Three Times Dead; or, The Secret of the Heath&lt;/i&gt;, it was later revised and re-issued under its current title and achieved wider recognition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75840</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/trailofserpentno00brad</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Trail_of_the_Serpent</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-e-braddon_the-trail-of-the-serpent</meta>
 		<dc:creator id="author">M. E. Braddon</dc:creator>
 		<meta property="file-as" refines="#author">Braddon, M. E.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Mary Elizabeth Braddon</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/M._E._Braddon</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79066474</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Józef Pankiewicz</dc:contributor>
+		<meta property="file-as" refines="#artist">Pankiewicz, Józef</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J%C3%B3zef_Pankiewicz</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no93038019</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Peter Becker</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Becker, Peter</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Laura Natal</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Natal, Laura</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Anthony Bongers</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bongers, Anthony</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/anthonybongers</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
