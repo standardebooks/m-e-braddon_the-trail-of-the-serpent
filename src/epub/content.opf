@@ -76,7 +76,7 @@
 		<dc:creator id="author">M. E. Braddon</dc:creator>
 		<meta property="file-as" refines="#author">Braddon, M. E.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Mary Elizabeth Braddon</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/M._E._Braddon</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79066474</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Józef Pankiewicz</dc:contributor>
