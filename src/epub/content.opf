@@ -62,7 +62,7 @@
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh2007101818</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>In the town of Slopperton-on-the-Sloshy, the fate of Richard Marwood and Jabez North intertwine in a story of crime, intrigue, and redemption.</dc:abstract>
+		<meta property="schema:abstract">In the town of Slopperton-on-the-Sloshy, the fate of Richard Marwood and Jabez North intertwine in a story of crime, intrigue, and redemption.</meta>
 		<dc:description>
 			&lt;p&gt;On a cold and stormy night in Slopperton-on-the-Sloshy, Richard Marwood returns after a mysterious and long disappearance. While his rich uncle aids him in starting a new life, his reappearance is quickly upended after he is apparently framed for murder. Meanwhile, Jabez North—prodigal son of Slopperton-on-the-Sloshy—schemes to make his fortunes by any means possible.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Trail of the Serpent&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/m-e-braddon"&gt;M. E. Braddon’s&lt;/a&gt; first book. Although it initially met with poor sales under its original title of &lt;i&gt;Three Times Dead&lt;/i&gt;, it was later revised and re-issued under its current title to much wider recognition, and is now considered to be one of the first British detective novels.&lt;/p&gt;
