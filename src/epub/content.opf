@@ -32,15 +32,15 @@
 		<meta property="file-as" refines="#title">Trail of the Serpent, The</meta>
 		<meta property="dcterms:alternative" refines="#title">Three Times Dead; or, The Secret of the Heath</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
-		<dc:subject id="subject-2">Serial murders -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Yorkshire (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Foundlings -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Murderers -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Paris (France) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Serial murders--Fiction</dc:subject>
+		<dc:subject id="subject-3">Yorkshire (England)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Foundlings--Fiction</dc:subject>
+		<dc:subject id="subject-5">Murderers--Fiction</dc:subject>
+		<dc:subject id="subject-6">Paris (France)--Fiction</dc:subject>
 		<dc:subject id="subject-7">Suspense fiction</dc:subject>
-		<dc:subject id="subject-8">Judicial error -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Mute persons -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Bankers -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Judicial error--Fiction</dc:subject>
+		<dc:subject id="subject-9">Mute persons--Fiction</dc:subject>
+		<dc:subject id="subject-10">Bankers--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
